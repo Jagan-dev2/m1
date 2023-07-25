@@ -1,4 +1,5 @@
-@Library("com.jagandev.slb)
-         {
-           appName :"Shipping"
-         }
+@Library("com.jagandev.slb") _
+firstPipelibrary(
+            appName :"Shipping"
+         )
+         
